@@ -12,5 +12,5 @@ This is an enhanced portfolio with:
 
 ## Update Links
 Edit `index.html` to replace:
-- https://github.com/yourusername
-- https://linkedin.com/in/yourusername
+- https://github.com/ramanathareddy07
+- https://www.linkedin.com/in/bhumireddy-ramanatha-reddy-b11818281/
